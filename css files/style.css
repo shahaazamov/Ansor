@@ -261,8 +261,7 @@ color:#fff;
     align-items:center;
     list-style: none;
 }
-.footer-links {
-}
+
 .footer-links:not(:last-child){
     margin-right: 40px;
 }
